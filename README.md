@@ -1,2 +1,1 @@
-# email-smtp
-Email setup using PHPMailer
+# PHPMailer Script to Send Email Using SMTP Authentication
